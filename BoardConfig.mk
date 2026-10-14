@@ -5,7 +5,7 @@
 
 # Partitions
 BOARD_SUPER_PARTITION_SIZE := 15032385536
-
+-include vendor/clover/config/BoardConfigReservedSize.mk
 # Include the common OEM chipset BoardConfig.
 include device/oneplus/sm8650-common/BoardConfigCommon.mk
 

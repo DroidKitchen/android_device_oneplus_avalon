@@ -4,4 +4,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_avalon.mk
+    $(LOCAL_DIR)/clover_avalon.mk

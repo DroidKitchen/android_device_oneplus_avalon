@@ -11,9 +11,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/oneplus/avalon/device.mk)
 
 # Inherit some common Lineage stuff.
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+$(call inherit-product, vendor/clover/config/common_full_phone.mk)
 
-PRODUCT_NAME := lineage_avalon
+PRODUCT_NAME := clover_avalon
 PRODUCT_DEVICE := avalon
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
@@ -28,3 +28,10 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceProduct=CPH2661 \
     SystemDevice=OP5E93L1 \
     SystemName=CPH2661
+
+# Clover assortment
+CLOVER_MAINTAINER := AlexLZ
+CLOVER_BUILDTYPE := UNOFFICIAL
+TARGET_ENABLE_BLUR := true
+TARGET_SUPPORTS_QUICK_TAP := true
+TARGET_FACE_UNLOCK_SUPPORTED := true
