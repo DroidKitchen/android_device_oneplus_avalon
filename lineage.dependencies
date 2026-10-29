@@ -1,62 +1,62 @@
 [
   {
     "repository": "DroidKitchen/android_device_oneplus_sm8650-common",
-    "target_path": "device/oneplus/sm8650-common"
-    "branch": "17.0"
+    "target_path": "device/oneplus/sm8650-common",
+    "branch": "17.0",
     "remote": "github"
   },
   {
     "repository": "DroidKitchen/proprietary_vendor_oneplus_avalon",
     "target_path": "vendor/oneplus/avalon",
-    "branch": "lineage-23.2"
+    "branch": "lineage-23.2",
     "remote": "github"
   },
   {
     "repository": "DroidKitchen/android_kernel_oneplus_sm8650",
-    "target_path": "kernel/oneplus/sm8650"
-    "branch": "17.0"
+    "target_path": "kernel/oneplus/sm8650",
+    "branch": "17.0",
     "remote": "github"
   },
   {
-    "repository": "DroidKitchen/android_kernel_oneplus_sm8650-devicetrees"
-    "target_path": "kernel/oneplus/sm8650-devicetrees"
-    "branch": "17.0"
+    "repository": "DroidKitchen/android_kernel_oneplus_sm8650-devicetrees",
+    "target_path": "kernel/oneplus/sm8650-devicetrees",
+    "branch": "17.0",
     "remote": "github"
   },
   {
-    "repository": "DroidKitchen/android_kernel_oneplus_sm8650-modules"
-    "target_path": "kernel/oneplus/sm8650-modules"
-    "branch": "17.0"
+    "repository": "DroidKitchen/android_kernel_oneplus_sm8650-modules",
+    "target_path": "kernel/oneplus/sm8650-modules",
+    "branch": "17.0",
     "remote": "github"
   },
   {
-    "repository": "DroidKitchen/android_hardware_oplus"
-    "target_path": "hardware/oplus"
-    "branch": "17.0"
+    "repository": "DroidKitchen/android_hardware_oplus",
+    "target_path": "hardware/oplus",
+    "branch": "17.0",
     "remote": "github"
   },
   {
-    "repository": "DroidKitchen/android_packages_apps_DolbyAtmos"
-    "target_path": "packages/apps/DolbyAtmos"
-    "branch": "16.0"
+    "repository": "DroidKitchen/android_packages_apps_DolbyAtmos",
+    "target_path": "packages/apps/DolbyAtmos",
+    "branch": "16.0",
     "remote": "github"
   },
   {
-    "repository": "xalexlozanoo/proprietary_vendor_oneplus_dolby"
-    "target_path": "vendor/oneplus/dolby"
-    "branch": "16.0"
+    "repository": "xalexlozanoo/proprietary_vendor_oneplus_dolby",
+    "target_path": "vendor/oneplus/dolby",
+    "branch": "16.0",
     "remote": "gitlab"
   },
 {
-  "repository": "xalexlozanoo/proprietary_vendor_oneplus_ir"
-  "target_path": "vendor/oneplus/ir"
-  "branch": "16.0"
+  "repository": "xalexlozanoo/proprietary_vendor_oneplus_ir",
+  "target_path": "vendor/oneplus/ir",
+  "branch": "16.0",
   "remote": "gitlab"
 },
 {
-  "repository": "xalexlozanoo/proprietary_vendor_oneplus_sm8650-common"
-  "target_path": "vendor/oneplus/sm8650-common"
-  "branch": "17.0"
+  "repository": "xalexlozanoo/proprietary_vendor_oneplus_sm8650-common",
+  "target_path": "vendor/oneplus/sm8650-common",
+  "branch": "17.0",
   "remote": "gitlab"
 }
 ]
